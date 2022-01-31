@@ -1,0 +1,43 @@
+name: Bug Report
+description: I've noticed something off in one of the products of Sticky.
+title: "[BUG]: "
+labels: ["bug"]
+assignees:
+  - martijnvankekem
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank your for taking the time to help improve Sticky Toolkit! In order to help you as best as possible, please fill in the information below.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What went wrong?
+      description: Which steps did you take to encounter this bug? What did actually happen? Were there any errors? (if so, please insert the error below). What did you expect to happen?
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: What product does this bug target?
+      options:
+        - Sticky Toolkit for Apple WatchOS
+        - Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
+        - Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What product version are you using? You can find this info under the 'Help' menu.
+      placeholder: v3.0.0 build 3000101.
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Other relevant info
+      description: If there is anything else to mention that is relevant to this bug, please do so below.
