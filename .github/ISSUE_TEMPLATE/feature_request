@@ -1,0 +1,44 @@
+name: Feature request
+description: I want to request a new feature, or propose a change to an existing feature.
+title: "[FEATURE REQUEST]: "
+labels: ["enhancement"]
+assignees:
+  - martijnvankekem
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank your for taking the time to help improve Sticky Toolkit! In order to help you as best as possible, please fill in the information below.
+  - type: textarea
+    id: request
+    attributes:
+      label: Description of your idea
+      description: What sports does this idea apply to? How does it work? What other information is relevant to know?
+      placeholder: Tell us your best idea!
+    validations:
+      required: true
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: What product are you suggestion this feature for?
+      options:
+        - Sticky Toolkit (all platforms)
+        - Sticky Toolkit for Apple WatchOS
+        - Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
+        - Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What product version are you currently using? You can find this info under the 'Help' menu.
+      placeholder: v3.0.0 build 3000101.
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Other relevant info
+      description: If there is anything else to mention that is relevant to this request, please do so below.
