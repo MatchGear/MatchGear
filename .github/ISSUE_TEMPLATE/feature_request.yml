@@ -29,14 +29,6 @@ body:
         - Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
     validations:
       required: true
-  - type: input
-    id: version
-    attributes:
-      label: Version
-      description: What product version are you currently using? You can find this info under the 'Help' menu.
-      placeholder: v3.0.0 build 3000101.
-    validations:
-      required: true
   - type: textarea
     id: info
     attributes:
