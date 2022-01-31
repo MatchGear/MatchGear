@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://gitea.io/">
-    <img alt="Gitea" src="https://www.stickytoolkit.com/assets/icon/android-icon-192x192.png?v=1.1.0" width="150"/>
+  <a href="https://www.stickytoolkit.com/">
+    <img alt="Sticky Toolkit" src="https://www.stickytoolkit.com/assets/icon/android-icon-192x192.png?v=1.1.0" width="150"/>
   </a>
 </p>
 <h1 align="center">Sticky Toolkit</h1>
