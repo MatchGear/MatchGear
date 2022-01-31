@@ -39,8 +39,7 @@ Sticky Toolkit is currently supported on the following platforms:
 * Apple WatchOS
 
 ## Author
-Sticky Toolkit is a product of Martijn van Kekem Development.  
-Martijn van Kekem Development is registered as a buisness in the Netherlands under Kamer van Koophandel number 85108332.
+Sticky Toolkit is a product of Martijn van Kekem Development, registered as a buisness in the Netherlands under Kamer van Koophandel number 85108332.
 
 One can contact the Sticky Toolkit team by sending an e-mail to info@stickytoolkit.com.
 
