@@ -17,23 +17,32 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
-  - type: dropdown
+  - type: checkboxes
     id: product
     attributes:
       label: Product
-      description: What product does this bug target?
+      description: On what product did you encounter this bug? Select all options that apply.
       options:
-        - Sticky Toolkit for Apple WatchOS
-        - Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
-        - Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
-    validations:
-      required: true
+        - label: Sticky Toolkit for Apple WatchOS
+          required: false
+        - label: Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
+          required: false
+        - label: Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
+          required: false
   - type: input
     id: version
     attributes:
       label: Version
       description: What product version are you using? You can find this info under the 'Help' menu.
       placeholder: v3.0.0 build 3000101.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device name & model
+      description: The name of your device and the model number.
+      placeholder: e.g. Samsung Galaxy Watch 4 - SM-R870
     validations:
       required: true
   - type: textarea
