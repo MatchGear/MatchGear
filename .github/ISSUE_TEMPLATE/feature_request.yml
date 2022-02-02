@@ -13,22 +13,22 @@ body:
     id: request
     attributes:
       label: Description of your idea
-      description: What sports does this idea apply to? How does it work? What other information is relevant to know?
+      description: Detailed description of your new idea. What are your requirements?
       placeholder: Tell us your best idea!
     validations:
       required: true
-  - type: dropdown
+  - type: checkboxes
     id: product
     attributes:
       label: Product
       description: What product are you suggestion this feature for?
       options:
-        - Sticky Toolkit (all platforms)
-        - Sticky Toolkit for Apple WatchOS
-        - Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
-        - Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
-    validations:
-      required: true
+        - label: Sticky Toolkit for Apple WatchOS
+          required: false
+        - label: Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
+          required: false
+        - label: Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
+          required: false
   - type: textarea
     id: info
     attributes:
