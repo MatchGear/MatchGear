@@ -21,7 +21,7 @@ body:
     id: product
     attributes:
       label: Product
-      description: What product are you suggestion this feature for?
+      description: What product are you suggestion this feature for? Select all options that apply.
       options:
         - label: Sticky Toolkit for Apple WatchOS
           required: false
