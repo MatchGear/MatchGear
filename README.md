@@ -11,14 +11,14 @@
   </a>
 </p>
 
-Sticky Toolkit is the ultimate toolkit around your wrist, and helps umpires from various sports around the globe to focus on the match, without having to worry about the rest.
+Sticky Toolkit is the ultimate toolkit around your wrist and helps umpires from various sports around the globe to focus on the match, without having to worry about the rest.
 
 With Sticky, you keep track of everything, so you can focus on the game. By featuring support for overtime (soccer/korfball) and shootouts (hockey), Sticky is your best friend on tournaments as well!
 
 Why should you choose Sticky Toolkit?
 * It's fully customizable. Different durations or extra periods are no problem at all!
 * No hassle during the game, set up everything beforehand.
-* Track everything you need; Sticky Toolkit features a countdown timer, a stopwatch, the live time, and and injury timer for soccer.
+* Track everything you need; Sticky Toolkit features a countdown timer, a stopwatch, the live time, and an injury timer for soccer.
 * Easily keep track of the score and suspension times and save the player numbers for later.
 * Keep track of substitutions and timeouts (korfball).
 * Save all the information after the match and consult them when you've finished your beer ;-).
