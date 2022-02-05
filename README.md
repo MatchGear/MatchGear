@@ -15,6 +15,11 @@
   <a href="README-NL.md">Ben je Nederlands? Klik dan hier.</a>
 </p>
 
+<p align="center">
+  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/1">View our project board here.</a>
+</p>
+
+
 Sticky Toolkit is the ultimate toolkit around your wrist and helps umpires around the globe to focus on that what's important: the game.
 
 With Sticky Toolkit, you can keep track of everything, so your focus is 100% on the game. By featuring support for overtime (soccer/korfball) and shoot-outs (hockey), Sticky Toolkit is your best friend on tournaments as well!
