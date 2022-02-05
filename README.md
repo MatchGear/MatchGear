@@ -38,8 +38,8 @@ Sticky Toolkit has support for the following sports:
   - [x] Soccer
   - [x] Indoor soccer
   - [x] Korfball
-  - [ ] Handball (planning started, no milestone set yet).
-  - [ ] Lacrosse (planning started, no milestone set yet).
+  - [ ] Handball (see https://github.com/StickyToolkit/StickyToolkit/issues/5).
+  - [ ] Lacrosse (see https://github.com/StickyToolkit/StickyToolkit/issues/6).
 
 ## Platform support
 Sticky Toolkit is currently supported on the following platforms:
