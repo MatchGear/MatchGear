@@ -37,8 +37,8 @@ Sticky Toolkit is momenteel geoptimaliseerd voor de volgende sporten:
   - [x] Voetbal
   - [x] Zaalvoetbal
   - [x] Korfbal
-  - [ ] Handbal (planning gestart, nog geen einddatum vastgesteld).
-  - [ ] Lacrosse (planning gestart, nog geen einddatum vastgesteld).
+  - [ ] Handbal (zie https://github.com/StickyToolkit/StickyToolkit/issues/5).
+  - [ ] Lacrosse (zie https://github.com/StickyToolkit/StickyToolkit/issues/6).
 
 ## Platform ondersteuning
 Sticky Toolkit wordt momenteel ondersteund op de volgende platformen:
