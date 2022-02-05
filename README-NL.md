@@ -11,6 +11,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="README-NL.md">Do you speak English? Click here.</a>
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/1">Bekijk ons projectbord hier.</a>
+</p>
+
 Sticky Toolkit is de ultieme uitbereiding rond jouw pols en helpt scheidsrechters van over de hele wereld om zich te focussen op dat wat er toe doet: de wedstrijd.
 
 Met Sticky Toolkit houd je alles bij, zodat jij je kan concentreren op de wedstrijd. Door de ondersteuning voor verlengingen (voetbal/korfbal) en shoot-outs (hockey), is Sticky Toolkit ook jouw beste vriend op toernooien!
