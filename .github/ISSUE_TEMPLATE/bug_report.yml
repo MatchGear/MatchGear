@@ -27,7 +27,7 @@ body:
           required: false
         - label: Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
           required: false
-        - label: Sticky Toolkit for Tizen OS (all Galaxy watches except prior to thhe Galaxy Watch 4)
+        - label: Sticky Toolkit for Tizen OS (all Galaxy watches except prior to the Galaxy Watch 4)
           required: false
   - type: input
     id: version
