@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/1">Bekijk ons projectbord hier.</a>
+  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/3">Bekijk ons Apple projectbord hier.</a><br>
+    <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/2">Bekijk ons Android projectbord hier.</a><br>
+    <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/4">Bekijk ons Tizen projectbord hier.</a>
 </p>
 
 Sticky Toolkit is de ultieme uitbereiding rond jouw pols en helpt scheidsrechters van over de hele wereld om zich te focussen op dat wat er toe doet: de wedstrijd.
