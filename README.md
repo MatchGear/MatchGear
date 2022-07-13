@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/1">View our project board here.</a>
+  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/3">View our Apple project board here.</a><br>
+  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/2">View our Android project board here.</a><br>
+  <a target="_blank" href="https://github.com/orgs/StickyToolkit/projects/4">View our Tizen project board here.</a>
 </p>
 
 
