@@ -45,9 +45,9 @@ Sticky Toolkit has support for the following sports:
 
 ## Platform support
 Sticky Toolkit is currently supported on the following platforms:
-* Tizen OS (Samsung Gear S3 and higher)
-* Android WearOS (e.g. Samsung Galaxy Watch 4)
-* Apple WatchOS
+* [Tizen OS (Samsung Gear S3 and higher)](https://galaxy.store/sticky)
+* [Android WearOS (e.g. Samsung Galaxy Watch 4)](https://play.google.com/store/apps/details?id=com.vankekem.stickytoolkit)
+* [Apple WatchOS](https://apps.apple.com/us/app/sticky-a-digital-sticky-note/id1554773095)
 
 ## Author
 Sticky Toolkit is a product of Martijn van Kekem Development, registered as a buisness in the Netherlands under Kamer van Koophandel number 85108332.
