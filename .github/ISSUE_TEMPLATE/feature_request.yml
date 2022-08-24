@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank your for taking the time to help improve Sticky Toolkit! In order to help you as best as possible, please fill in the information below.
+        Thank your for taking the time to help improve MatchGear! In order to help you as best as possible, please fill in the information below.
   - type: textarea
     id: request
     attributes:
@@ -23,11 +23,11 @@ body:
       label: Product
       description: What product are you suggestion this feature for? Select all options that apply.
       options:
-        - label: Sticky Toolkit for Apple WatchOS
+        - label: MatchGear for Apple WatchOS
           required: false
-        - label: Sticky Toolkit for Android WearOS (all android watches + Samsung Galaxy Watch 4)
+        - label: MatchGear for Android WearOS (all android watches + Samsung Galaxy Watch 4 and higher)
           required: false
-        - label: Sticky Toolkit for Tizen OS (all Galaxy watches except prior to the Galaxy Watch 4)
+        - label: MatchGear for Tizen OS (all Galaxy watches prior to the Galaxy Watch 4)
           required: false
   - type: textarea
     id: info
