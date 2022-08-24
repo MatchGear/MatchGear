@@ -6,14 +6,13 @@ When a security vulnerability is found and fixed, this fix will be applied to th
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.x     | :white_check_mark: |
 | 3.x     | :white_check_mark: |
-| < 2.0   | :x:                |
+| < 3.0   | :x:                |
 
 ## Reporting a Vulnerability
 
 Did you find a security vulnerability in one of our applications?
-Please contact info@stickytoolkit.com directly.
+Please contact info@matchgear.app directly.
 
 :warning: **Do not** create an issue for this!
 
