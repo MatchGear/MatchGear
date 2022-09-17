@@ -50,7 +50,7 @@ MatchGear is currently supported on the following platforms:
 * [Apple WatchOS](https://www.matchgear.app/apple)
 
 ## Author
-MatchGear and Sticky Toolkit are products of Martijn van Kekem Development, registered as a buisness in the Netherlands under Kamer van Koophandel number 85108332.
+MatchGear and Sticky Toolkit are products of Martijn van Kekem Development, registered as a business in the Netherlands under Kamer van Koophandel number 85108332.
 
 One can contact the MatchGear team by sending an e-mail to info@matchgear.app.
 
