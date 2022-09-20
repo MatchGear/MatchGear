@@ -17,18 +17,17 @@ body:
       placeholder: Tell us your best idea!
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: product
     attributes:
-      label: Product
-      description: What product are you suggestion this feature for? Select all options that apply.
+      label: For which platform do you propose this feature?
+      multiple: true
       options:
-        - label: MatchGear for Apple WatchOS
-          required: false
-        - label: MatchGear for Android WearOS (all android watches + Samsung Galaxy Watch 4 and higher)
-          required: false
-        - label: MatchGear for Tizen OS (all Galaxy watches prior to the Galaxy Watch 4)
-          required: false
+        - MatchGear for Apple WatchOS
+        - MatchGear for Android WearOS (all android watches + Samsung Galaxy Watch 4 and higher)
+        - MatchGear for Tizen OS (all Galaxy watches prior to the Galaxy Watch 4)
+    validations:
+      required: true
   - type: textarea
     id: info
     attributes:
