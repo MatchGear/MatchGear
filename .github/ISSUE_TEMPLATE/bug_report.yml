@@ -20,7 +20,7 @@ body:
   - type: dropdown
     id: product
     attributes:
-      label: Product
+      label: On which product do you encounter this bug?
       multiple: true
       options:
         - MatchGear for Apple WatchOS
