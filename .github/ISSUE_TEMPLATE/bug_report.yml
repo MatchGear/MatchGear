@@ -26,8 +26,8 @@ body:
         - MatchGear for Apple WatchOS
         - MatchGear for Android WearOS (all android watches + Samsung Galaxy Watch 4 and higher)
         - MatchGear for Tizen OS (all Galaxy watches prior to the Galaxy Watch 4)
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: version
     attributes:
