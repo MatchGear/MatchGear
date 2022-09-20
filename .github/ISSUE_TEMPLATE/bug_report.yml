@@ -17,18 +17,15 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: product
     attributes:
       label: Product
-      description: On what product did you encounter this bug? Select all options that apply.
+      multiple: true
       options:
-        - label: MatchGear for Apple WatchOS
-          required: false
-        - label: MatchGear for Android WearOS (all android watches + Samsung Galaxy Watch 4 and higher)
-          required: false
-        - label: MatchGear for Tizen OS (all Galaxy watches prior to the Galaxy Watch 4)
-          required: false
+        - MatchGear for Apple WatchOS
+        - MatchGear for Android WearOS (all android watches + Samsung Galaxy Watch 4 and higher)
+        - MatchGear for Tizen OS (all Galaxy watches prior to the Galaxy Watch 4)
   - type: input
     id: version
     attributes:
